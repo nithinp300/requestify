@@ -1,0 +1,9 @@
+url: https://cdn.animenewsnetwork.com/encyclopedia/api.xml?anime=4658
+method: get
+params:
+  offset: 2
+  limit: 100
+headers:
+  accept: text/xml
+  accept-language: en
+timeout: 5000
